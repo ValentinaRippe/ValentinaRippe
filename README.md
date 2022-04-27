@@ -59,7 +59,7 @@ const Valentina =
 
 </p><br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ValentinaRippe&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=es" alt="ValentinaRippe" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaRippe&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=es" width="350" >
+<img src="https://github-readme-stats.vercel.app/api?username=ValentinaRippe&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="ValentinaRippe" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaRippe&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" width="350" >
  </p>
 
