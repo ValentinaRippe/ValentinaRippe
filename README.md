@@ -59,7 +59,7 @@ const Valentina =
 
 </p><br>
 <p align="center">
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=ValentinaRippe&show_icons=true" alt="ValentinaRippe" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=ValentinaRippe&show_icons=true" alt="ValentinaRippe" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaRippe&show_icons=true" width="350" >
  </p>
 
