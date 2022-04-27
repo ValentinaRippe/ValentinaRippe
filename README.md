@@ -17,9 +17,9 @@ const Valentina =
     architecture: ["Single page applications"],
 }
 ```
-<p align="center">
-<a href="https://github.com/ValentinaRippe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ValentinaRippe" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/valentina-rippe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan casas" height="30" width="40" /></a>
+<p align="left">
+<a href="mailto:lauravalentina200102@gmail.com" target="blank"><img align="center" alt="Email" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" height="25" width="35" ></a>
+<a href="https://www.linkedin.com/in/valentina-rippe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Valentina Rippe" height="30" width="40" /></a>
 </p>
 
 <p align="center">
