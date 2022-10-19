@@ -11,10 +11,13 @@ const Valentina =
             js: [ "React", "Angular"],
             css: ["scss"]
         },
-        backEnd: ["nodejs", "express", "python"],
-        database: ["mongo","mySql"]
+        backEnd: {
+            python: ["Django"],
+            js: ["nodejs", "express", "sequelize"]
+        },
+        database: ["mongo","mySql", "postgresql"]
     },
-    architecture: ["Single page applications"],
+    architecture: ["Single page applications"],"nodejs", "express", "python"
 }
 ```
 <p align="left">
